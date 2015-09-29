@@ -18,13 +18,14 @@ NAVBAR
 TITLE
 **************************************/
 .title { 
+  font-size: 35px;
   padding-left: 20px;
-  font-size: 10px; 
   margin: 10px 0; 
   font-weight: bold;
 }
-h3 {
+.title-sub {
   color: #ff0000;
+  font-size: 25px;
 }
 /**************************************
 D3 BUTTONS
@@ -37,15 +38,52 @@ D3 BUTTONS
 CONTEXT BOX
 **************************************/
 .context-text {
+  font-size: 16px;
+  font-weight: bold;
   width: 60%;
   padding: 20px;
   margin-left: 20px;
   border: solid;
+  background-color: #e2ded3;
 }
 
 /**************************************
 D3 GRAPH
 **************************************/
+h1 { 
+  font-size: 36px; 
+  margin: 10px 0; 
+  text-transform: uppercase; 
+  font-weight: normal;
+}
+h2, h3 { 
+  font-size: 18px; 
+  margin: 5px 0 ; 
+  font-weight: normal;
+}
+h2 {
+  font-weight: bold;
+}
+header {
+  padding: 20px; 
+}
+.header-main {
+  color: #ff0000;
+}
+a:link { color: #EE3124; 
+  text-decoration: none;
+}
+a:visited { 
+  color: #EE3124; 
+}
+a:hover { 
+  color: #A4CD39; 
+  text-decoration: underline;
+}
+a:active { 
+  color: #EE3124; 
+}
+
 path.link {
   fill: none;
   stroke-width: 2px;

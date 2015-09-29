@@ -112,8 +112,8 @@ function update() { // START FUNCTION  UPDATE
     /* Append artist name */
     .on('click', function(d) {
       d3.select("h1").html(d.shoeName);
-      d3 .select("h2").html(d.name);
-      d3.select("h3").html("Take me to " + "<a href='" + d.link + "' >" + d.shoeName + " bucketfeet shop page" + "</a>" );
+      d3 .select("h2").html("Artist Name: " + d.name);
+      d3.select("h3").html("Shop your favorite bucketfeet shoes: " + "<a href='" + d.link + "' >" + d.shoeName + "</a>");
     })
     .on('mouseenter', function() {
       /* Select element */
