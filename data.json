@@ -7,7 +7,16 @@
    "children": [
     {
       "shoeName": "CMYK VISIONS",
-      "artist": "Col Walnuts", 
+      "name": "Col Walnuts", 
+      "link": "https://www.bucketfeet.com/cmyk-visions?___SID=S",
+      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/c/m/cmykvisions_m_3.jpg",
+      "popularity": 4,
+      "about": "As far back as Col Wallnuts can remember he has loved abstract expressionism and modern artÑthe emotion in those paintings would draw him in, and seeing the movement of an artistÕs brush as it created life on canvas always captured his attention.",
+      "size": 40000
+    },
+    {
+      "shoeName": "CMYK VISIONS",
+      "name": "Col Walnuts", 
       "link": "https://www.bucketfeet.com/cmyk-visions?___SID=S",
       "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/c/m/cmykvisions_m_3.jpg",
       "popularity": 4,
@@ -21,7 +30,16 @@
    "children": [
     {
      "shoeName": "PINEAPPLEADE GOLD",
-      "artist": "DJ LU", 
+      "name": "DJ LU", 
+      "link": "https://www.bucketfeet.com/pineappleade-gold?___SID=S",
+      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/p/i/pineappleadegold_w_3.jpg",
+      "popularity": 7,
+      "about": "DJLU, architect and artist, has been developing art projects since 2004. His technique mainly employs stencils, but he often incorporates of stickers, stamps, posters, and mural painting into his art. Reviews of his work have been published in VNA Magazine, Plataform 58, the Dirty Verbs and Fatcap Blog and in Colombian publications such as Credencial, Go, Mefistofeles and Fachada E-Zine. In 2012, he helped publish Calleesosojos, the first book dedicated to urban art in Bogotá.",
+      "size": 40000
+    },
+    {
+     "shoeName": "PINEAPPLEADE GOLD",
+      "name": "DJ LU", 
       "link": "https://www.bucketfeet.com/pineappleade-gold?___SID=S",
       "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/p/i/pineappleadegold_w_3.jpg",
       "popularity": 7,
@@ -35,7 +53,16 @@
    "children": [
     {
       "shoeName": "FLAMINGOS",
-      "artist": "Lindsay Cowcher", 
+      "name": "Lindsay Cowcher", 
+      "link": "https://www.bucketfeet.com/flamingos?___SID=S",
+      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/f/l/flamingos_w_3.jpg",
+      "popularity": 9,
+      "about": "Lindsay's inspiration are all things flora, fauna and the great outdoors. Nature has an amazing way to excite and intrigue the senses.",
+      "size": 40000
+    },
+    {
+      "shoeName": "FLAMINGOS",
+      "name": "Lindsay Cowcher", 
       "link": "https://www.bucketfeet.com/flamingos?___SID=S",
       "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/f/l/flamingos_w_3.jpg",
       "popularity": 9,
