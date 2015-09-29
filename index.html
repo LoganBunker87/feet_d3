@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>BucketFeet</title>
+  <!-- BOOTSTRAP -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <!-- BOOTSTRAP THEME -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <!-- CUSTOM STYLE -->
+  <link rel="stylesheet" href="./stylesheets/style.css">
+
+</head>
+<body>
+
+  <!-- NAVIGATION -->
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">bucketfeet</a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+        <form class="navbar-form navbar-left pull-right" role="search">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search Artist">
+          </div>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+
+  <!-- D3 BUTTONS -->
+  <div class="btn-group" role="group">
+    <button type="button" class="btn btn-default button1">All</button>
+    <button type="button" class="btn btn-default button2">New</button>
+    <button type="button" class="btn btn-default button3">Popular</button>
+    <button type="button" class="btn btn-default button4">By Country</button>
+  </div>
+
+  <!-- CONTEXT TEXT -->
+  <div class="context-text">
+    <h5>Implementation of D3.js for Bucketfeet.Implementation of D3.js for Bucketfeet.Implementation of D3.js for Bucketfeet.</h5>
+  </div>
+
+  <!-- D3 GRAPH -->
+  <div id='dashboard'></div>
+
+  <!-- FOOTER -->
+    <footer>
+        <p class="footerText">by <a class="footerCredit" href="http://www.themihirchronicles.com">mihir patel</a></p>
+    </footer>
+
+  <!-- SCRIPT FILES -->
+    <!-- jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.js"></script>
+    <!-- BootStrap -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- D3.js Source -->
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <!-- D3.js Topojson -->
+    <script src="http://www.d3plus.org/js/topojson.js"></script>
+    <!-- D3plus -->
+    <script src="http://www.d3plus.org/js/d3plus.js"></script>
+    <!-- App 1 -->
+    <script src="./app/app_1.js"></script>
+
+</body>
+</html>
