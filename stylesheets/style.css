@@ -15,6 +15,15 @@ NAVBAR
 }
 
 /**************************************
+TITLE
+**************************************/
+.title { 
+  padding-left: 20px;
+  font-size: 10px; 
+  margin: 10px 0; 
+  font-weight: bold;
+}
+/**************************************
 D3 BUTTONS
 **************************************/
 .btn-group {
@@ -25,7 +34,7 @@ D3 BUTTONS
 CONTEXT BOX
 **************************************/
 .context-text {
-  width: 50%;
+  width: 60%;
   padding: 20px;
   margin-left: 20px;
   border: solid;
@@ -34,7 +43,13 @@ CONTEXT BOX
 /**************************************
 D3 GRAPH
 **************************************/
-
+path.link {
+  fill: none;
+  stroke-width: 2px;
+}
+.node:not(:hover) .nodetext {
+  display: none;
+}
 
 /**************************************
 FOOTER
