@@ -4,8 +4,8 @@
 
   /* Define area and inital values */
   // var d3;
-  var w = 960,
-      h = 800,
+  var w = 1060,
+      h = 720,
       maxNodeSize = 50,
       x_browser = 20,
       y_browser = 25,
@@ -49,9 +49,9 @@ function update() { // START FUNCTION  UPDATE
   force.nodes(nodes)
     .links(links)
     .gravity(0.05)
-    .charge(-1500)
-    .linkDistance(100)
-    .friction(0.5)
+    .charge(-1100)
+    .linkDistance(160)
+    .friction(0.6)
     .linkStrength(function(l, i) {
       return 1;
     })
@@ -89,7 +89,7 @@ function update() { // START FUNCTION  UPDATE
   /* Append a circle */
   nodeEnter.append("svg:circle")
     .attr("r", function(d) {
-      return Math.sqrt(d.size)/10 || 4.5;
+      return Math.sqrt(d.size)/5 || 4.5;
     })
     .style("fill", "#eee");
 
@@ -126,8 +126,8 @@ function update() { // START FUNCTION  UPDATE
         .attr("y", function(d) {
           return -60;
         })
-        .attr("height", 100)
-        .attr("width", 100);
+        .attr("height", 400)
+        .attr("width", 400);
     })
     /* Set back to initial state */
     .on('mouseleave', function() {
