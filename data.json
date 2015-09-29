@@ -1,0 +1,42 @@
+{
+ "name": "BucketFeet",
+ "img": "https://upload.wikimedia.org/wikipedia/en/4/40/BucketFeet_Logo.jpg",
+ "children": [
+  {
+   "name": "US",
+   "children": [
+    {
+      "shoeName": "",
+      "artist": "", 
+      "link": "",
+      "img":  "",
+      "popularity": 2
+    }
+   ]
+  },
+  {
+   "name": "Brazil",
+   "children": [
+    {
+     "shoeName": "",
+      "artist": "", 
+      "link": "",
+      "img":  "",
+      "popularity": 4
+    }
+   ]
+  },
+  {
+   "name": "Great Britain",
+   "children": [
+    {
+      "shoeName": "",
+      "artist": "", 
+      "link": "",
+      "img":  "",
+      "popularity": 8
+    }
+   ]
+  }  
+ ]
+}
