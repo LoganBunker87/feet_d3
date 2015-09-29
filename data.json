@@ -3,24 +3,96 @@
  "img": "https://upload.wikimedia.org/wikipedia/en/4/40/BucketFeet_Logo.jpg",
  "children": [
   {
-   "name": "US",
+   "name": "US", 
    "children": [
     {
       "shoeName": "CMYK VISIONS",
       "name": "Col Walnuts", 
-      "link": "https://www.bucketfeet.com/cmyk-visions?___SID=S",
-      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/c/m/cmykvisions_m_3.jpg",
+      "link": "https://www.bucketfeet.com/cmyk-visions",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/c/m/cmykvisions_m_3.jpg",
       "popularity": 4,
       "about": "As far back as Col Wallnuts can remember he has loved abstract expressionism and modern artÑthe emotion in those paintings would draw him in, and seeing the movement of an artistÕs brush as it created life on canvas always captured his attention.",
       "size": 40000
     },
     {
-      "shoeName": "CMYK VISIONS",
-      "name": "Col Walnuts", 
-      "link": "https://www.bucketfeet.com/cmyk-visions?___SID=S",
-      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/c/m/cmykvisions_m_3.jpg",
-      "popularity": 4,
-      "about": "As far back as Col Wallnuts can remember he has loved abstract expressionism and modern artÑthe emotion in those paintings would draw him in, and seeing the movement of an artistÕs brush as it created life on canvas always captured his attention.",
+      "shoeName": "RAJAS",
+      "name": "AUDREY KEIFFER", 
+      "link": "https://www.bucketfeet.com/rajas",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/r/a/rajas_m_4.jpg",
+      "popularity": 7,
+      "about": "Audrey Keiffer is a textile/surface designer, artist, and writer from Chicago, IL. She is the Co-founder, Editor-in-chief, and Designer for Chicago's design studio, The Patternbase, and edited its forthcoming book, PATTERNBASE: A Book of Contemporary Textile and Surface Design.",
+      "size": 40000
+    },
+    {
+      "shoeName": "PETALS",
+      "name": "MEERA LEE PATEL", 
+      "link": "http://www.bucketfeet.com/petals",
+      "img": "http://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/p/e/petals_w_3.jpg",
+      "popularity": 8,
+      "about": "Meera Lee Patel is a self-taught artist raised by the New Jersey shore, where she swam the bright waters and climbed cherry blossom trees until she grew old enough to draw them. Her illustrations are inspired by the magical mysteries of nature, the quiet stories that lace through everyday life, and the bold colors of her native India.",
+      "size": 40000
+    },
+    {
+      "shoeName": "EARTHTONES",
+      "name": "CRAIG WINSLOW", 
+      "link": "https://www.bucketfeet.com/earthtones",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/e/a/earthtones_m_4.jpg",
+      "popularity": 6,
+      "about": "Designing immersive experiences & products that bridge the digital/physical world.",
+      "size": 40000
+    },
+    {
+      "shoeName": "DELTA",
+      "name": "ERIN BURKE", 
+      "link": "https://www.bucketfeet.com/delta-1",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/d/e/delta_6_m.jpg",
+      "popularity": 5,
+      "about": "Erin Burke is a painter, illustrator, and graphic designer originally from South Carolina who now calls Chicago home. From wedding invitations to concert posters to acrylic painting, she brings a unique color palette and vibrant style to the art she touches. Although she creates art for fun, her full time job is a graphic designer for a small firm in Chicago",
+      "size": 40000
+    },
+    {
+      "shoeName": "JAYSON ATIENZA",
+      "name": "JAYSON ATIENZA", 
+      "link": "http://www.bucketfeet.com/jayson-atienza",
+      "img": "http://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/j/a/jayson_atienza_6_m_1.jpg",
+      "popularity": 7,
+      "about": "Jayson Atienza was born in Batangas City, Philippines and raised in Jersey City, NJ where he began drawing at the young age of five. While at SVA, Jayson developed his signature painting style, which began with a meticulous watercolor and ink approach. Over the past decade, Jayson has expanded the mediums with which he executes art on both traditional and non-traditional canvases for individual collectors, public institutions and corporations.",
+      "size": 40000
+    },
+    {
+      "shoeName": "UPENDO BLACK",
+      "name": "UPENDO", 
+      "link": "https://www.bucketfeet.com/upendo-black",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/3/_/3_4.jpg",
+      "popularity": 9,
+      "about": "A native of Watts, California, Upendo is a multi-faceted artist inspired by the seemingly mundane aspects of everyday life. Though a skilled graphic designer, his artistic genesis lies in skate and street culture. His artistic explorations have led to collaborations with the likes of Microsoft, Raphael Saadiq, Gatorade, and other top consumer brands. Despite all this success, he has a voracious creative appetite and launched his own avant garde apparel line dubbed Leroy Jenkins in 2005. He continues to push his artistic boundaries through new mediums, and his BucketFeet shoe reflects his commitment to detail and growth.",
+      "size": 40000
+    },
+    {
+      "shoeName": "SHPLINTON",
+      "name": "SHPLINTON", 
+      "link": "https://www.bucketfeet.com/shplinton",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/s/h/shplinton_m_5.jpg",
+      "popularity": 8,
+      "about": "Quentin Thomas, a.k.a. Shplinton, was born and raised in sunny LA. A huge fan of pop culture, you can find Shplinton’s detailed scribble-based drawings covering everything from Breaking Bad to Archer. He also owns a killer jean jacket with Disney patches all over it.",
+      "size": 40000
+    },
+    {
+      "shoeName": "CONTROLLER",
+      "name": "TTW", 
+      "link": "https://www.bucketfeet.com/controller",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/c/o/controller_m_4_2.jpg",
+      "popularity": 7,
+      "about": "Timothy Teruo Watters (TTW) is an inspired, highly-respected and self-taught expressive realist painter who has spent the past 19 years creating art that draws inspiration from the colorful spectrum of his family lineage to the modern pop-culture that permeates society today. TTW notable works are borne from a deep appreciation of personal heroes including Van Gogh, Hokusai and Teruo Iyama.",
+      "size": 40000
+    },
+    {
+      "shoeName": "BLUE EAST",
+      "name": "TAKA COOPER", 
+      "link": "https://www.bucketfeet.com/blue-east",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/b/l/blueeast_w_4.jpg",
+      "popularity": 8,
+      "about": "Taka Cooper is from Chicago Illinois and is a graphic designer, painter, and tattoo artist.",
       "size": 40000
     }
    ]
@@ -31,19 +103,28 @@
     {
      "shoeName": "PINEAPPLEADE GOLD",
       "name": "DJ LU", 
-      "link": "https://www.bucketfeet.com/pineappleade-gold?___SID=S",
-      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/p/i/pineappleadegold_w_3.jpg",
+      "link": "https://www.bucketfeet.com/pineappleade-gold?",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/p/i/pineappleadegold_w_3.jpg",
       "popularity": 7,
       "about": "DJLU, architect and artist, has been developing art projects since 2004. His technique mainly employs stencils, but he often incorporates of stickers, stamps, posters, and mural painting into his art. Reviews of his work have been published in VNA Magazine, Plataform 58, the Dirty Verbs and Fatcap Blog and in Colombian publications such as Credencial, Go, Mefistofeles and Fachada E-Zine. In 2012, he helped publish Calleesosojos, the first book dedicated to urban art in Bogotá.",
       "size": 40000
     },
     {
-     "shoeName": "PINEAPPLEADE GOLD",
-      "name": "DJ LU", 
-      "link": "https://www.bucketfeet.com/pineappleade-gold?___SID=S",
-      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/p/i/pineappleadegold_w_3.jpg",
+      "shoeName": "FAT SUGAR DADDY",
+      "name": "LAVENDER", 
+      "link": "https://www.bucketfeet.com/lavender",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/l/a/lavender_w_3.jpg",
       "popularity": 7,
-      "about": "DJLU, architect and artist, has been developing art projects since 2004. His technique mainly employs stencils, but he often incorporates of stickers, stamps, posters, and mural painting into his art. Reviews of his work have been published in VNA Magazine, Plataform 58, the Dirty Verbs and Fatcap Blog and in Colombian publications such as Credencial, Go, Mefistofeles and Fachada E-Zine. In 2012, he helped publish Calleesosojos, the first book dedicated to urban art in Bogotá.",
+      "about": "FAT SUGAR DADDY, is a visual artist and a university professor in Bogotá, Colombia. He's part of various creative projects, including being the chief visual artist of El Freaky Colectivo, one of the biggest DJ and artist collectives in the genre of Global Bass. He splits his time between teaching classes, DJ'ing and art. He believes- art brings out a human necessity for individual expression. Its the most positive form of egoism.",
+      "size": 40000
+    },
+    {
+      "shoeName": "DAST",
+      "name": "SATURATION", 
+      "link": "https://www.bucketfeet.com/saturation",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/s/a/saturation_m_4.jpg",
+      "popularity": 6,
+      "about": "Graffiti artist and designer from Bogota.",
       "size": 40000
     }
    ]
@@ -54,19 +135,37 @@
     {
       "shoeName": "FLAMINGOS",
       "name": "Lindsay Cowcher", 
-      "link": "https://www.bucketfeet.com/flamingos?___SID=S",
-      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/f/l/flamingos_w_3.jpg",
+      "link": "https://www.bucketfeet.com/flamingos",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/f/l/flamingos_w_3.jpg",
       "popularity": 9,
       "about": "Lindsay's inspiration are all things flora, fauna and the great outdoors. Nature has an amazing way to excite and intrigue the senses.",
       "size": 40000
     },
     {
-      "shoeName": "FLAMINGOS",
-      "name": "Lindsay Cowcher", 
-      "link": "https://www.bucketfeet.com/flamingos?___SID=S",
-      "img":  "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/f/l/flamingos_w_3.jpg",
-      "popularity": 9,
-      "about": "Lindsay's inspiration are all things flora, fauna and the great outdoors. Nature has an amazing way to excite and intrigue the senses.",
+      "shoeName": "SIMON THE SHARK",
+      "name": "HANNAH BOWEN", 
+      "link": "https://www.bucketfeet.com/simon-the-shark",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/s/i/simontheshark_mu_4.jpg",
+      "popularity": 6,
+      "about": "Hannah Bowen is a surface pattern designer and illustrator based in lovely rainy Leeds. Studying Printed Textiles and Surface Pattern Design at Leeds College Of Art And Design.",
+      "size": 40000
+    },
+    {
+      "shoeName": "DAZED FLOWERS",
+      "name": "TALI FURMAN", 
+      "link": "https://www.bucketfeet.com/dazed-flowers",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/d/a/dazedflowers_w_4.jpg",
+      "popularity": 7,
+      "about": "Textile designer specialising in Printed textile design, fabric development. Based in London. Recently graduated Royal College of Art Master's degree, Printed textiles.",
+      "size": 40000
+    },
+    {
+      "shoeName": "AERIALIST",
+      "name": "MAT MILLER", 
+      "link": "https://www.bucketfeet.com/aerialist",
+      "img": "https://d153fwbf2sefnf.cloudfront.net/media/catalog/product/cache/1/image/460x307/9df78eab33525d08d6e5fb8d27136e95/a/e/aerialist_w_3.jpg",
+      "popularity": 6,
+      "about": "Mat is an illustrator/artist from the UK. He likes to draw nice things for people, based mainly around animals and nature.",
       "size": 40000
     }
    ]
