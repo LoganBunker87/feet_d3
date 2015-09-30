@@ -18,3 +18,4 @@ Bucketfeet has several artists at times. It makes it hard for users to find a sp
 - Artist grouped in their respective countries
 - Click on your favorite shoe, it will give you more information on the artist and a link to shop those shoes on bucketfeet website
 
+![alt text](screenshots/bfeet.png "Bucketfeet Interactive Visualization")
